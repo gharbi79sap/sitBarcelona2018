@@ -7,3 +7,6 @@ More details in my Blog: https://blogs.sap.com/2018/04/12/sap-leonardo-machine-l
 ----------------------------------------------------------------
 1 - Download the Fiori app Zip file
 2 - Download the Hands-on PDF and follow instructions.
+
+Note:
+This is only for demo purposes.
