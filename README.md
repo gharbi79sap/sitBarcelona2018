@@ -9,4 +9,4 @@ More details in my Blog: https://blogs.sap.com/2018/04/12/sap-leonardo-machine-l
 2 - Download the Hands-on PDF and follow instructions.
 
 Note:
-This is only for demo purposes.
+Make sure you enable CORS in your browser in case you get errors calling the Leonardo API. This is only for demo purposes.
